@@ -1,0 +1,26 @@
+body {
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.navbar {
+   width: 1035px;
+   margin: auto;
+}
+
+ul {
+   display: flex;
+   justify-content: space-around;
+   list-style: none;
+   padding: 0;
+}
+
+.nav_list {
+   cursor: pointer;
+   font-size: 12px;
+   font-weight: 400;
+}
+
+i {
+   font-size: 15px;
+}
